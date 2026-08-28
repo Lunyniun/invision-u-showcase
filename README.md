@@ -1,15 +1,26 @@
 
 # InVision Journey — Mobile Admission Ecosystem & AI Dashboard 🎓
 
-![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat&logo=kotlin)
-![AI Engine](https://img.shields.io/badge/AI_Assistant-INIK-FF6F00?style=flat&logo=google)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-Android%2FiOS-7F52FF?style=flat&logo=kotlin)
+![Supabase](https://img.shields.io/badge/Supabase-Database%20%2B%20Auth%20%2B%20Realtime-3FCF8E?style=flat&logo=supabase)
+![AI Engine](https://img.shields.io/badge/Generative_AI-INIK_Engine-FF6F00?style=flat&logo=google)
 ![Status](https://img.shields.io/badge/Status-Public_Showcase-brightgreen)
 
-> Cross-platform mobile ecosystem for university admissions, featuring applicant self-service portals, an AI assistant, and a real-time analytics dashboard for admission committees.
+> Next-generation cross-platform admission system designed to replace legacy paper-based applicant screening with real-time multi-signal evaluation, automated risk detection, and AI-driven candidate analytics.
 
-> **Note:** Public product showcase highlighting user interface design and system architecture.
+Built with **Kotlin Multiplatform (KMP)** and **Supabase**, InVision Journey bridges the gap between prospective students and university admission boards. It delivers an intuitive, gamified applicant experience on mobile, paired with an enterprise-grade AI evaluation dashboard for admission officers.
+
+> **Note:** Public product showcase highlighting system architecture, AI pipeline, and mobile user interfaces.
 
 ---
+
+## 🚀 Key Innovations & Deep AI Pipeline
+
+* 🤖 **INIK AI Assistant:** 24/7 intelligent conversational engine integrated directly into the applicant workflow. Automatically verifies uploaded document completeness, tracks grant status, and answers complex program queries in real time.
+* 🧠 **Automated Dossier Analysis:** Instantly scans, cross-references, and evaluates applicant project artifacts, video submissions, and soft/hard skills.
+* 🚩 **Predictive Risk & Red-Flag Engine:** Analyzes candidate data to highlight low motivation, gaps in project experience, or inconsistencies before the interview phase.
+* ⚖️ **Unbiased Safe Ranking:** Strips out subjective human bias (age, geography, socio-economic factors) to generate transparent, mathematically backed candidate shortlists.
+* ⚔️ **Candidate Battle Mode:** Allows admission officers to perform side-by-side 360° candidate comparisons across skill matrices, career timelines, and AI-confidence indices.
 
 ## 📱 Interface Showcase
 
@@ -50,14 +61,14 @@
 
 ---
 
-## 🛠️ Core UI Modules
+## 🛠️ Tech Stack & Architecture
 
-| Module | Features |
+| Layer | Technology |
 | :--- | :--- |
-| **Applicant Mobile UI** | Profile management, portfolio vault, grant roadmap, interactive forms. |
-| **INIK AI Workspace** | Automated document verification, contextual Q&A, real-time application tracking. |
-| **Committee Portal** | Real-time candidate funnel, risk flags, candidate battle, automated shortlisting. |
-| **Communication Hub** | In-app messaging, document attachments, and direct notification dispatch. |
+| **Mobile Core** | Kotlin Multiplatform (KMP) |
+| **Backend & Realtime** | Supabase (PostgreSQL, Row Level Security, WebSockets, Storage) |
+| **AI Architecture** | Custom Generative AI Engine (Candidate Dossier Parsing & INIK AI) |
+| **State & Communication** | Realtime Sync, WebSockets, In-App Encrypted Messaging |
 
 ---
 
