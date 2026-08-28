@@ -15,7 +15,8 @@
 
 ### 1. Applicant Dashboard (Personal Account)
 
-<img width="420" height="891" alt="zakaz6" src="https://github.com/user-attachments/assets/bfa781d3-8aae-4df7-be67-b63e5ba29a49" />
+<img width="380" height="823" alt="Young Mobile Brains" src="https://github.com/user-attachments/assets/bd50fb76-3f89-4c1a-95ff-e213c7839315" />
+
 
 ### 2. Multi-Step Application Flow
 
